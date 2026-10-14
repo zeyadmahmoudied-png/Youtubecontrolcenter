@@ -1,7 +1,16 @@
-# YouTubeControlCenter
+# YouTube Control Center
 
-Android app project for managing and analyzing YouTube content.
+تطبيق Android لإدارة قنوات YouTube وتحليل أدائها واكتشاف الفيديوهات الرائجة.
 
-## Source
+## المميزات
+- لوحة تحكم لإحصاءات القناة العامة والفيديوهات.
+- استكشاف الفيديوهات الرائجة والبحث بالكلمات المفتاحية.
+- متابعة القنوات المنافسة باستخدام البيانات العامة فقط.
+- تقويم وأدوات لتنظيم المحتوى والاستوديو.
+- تخزين محلي للإعدادات والبيانات باستخدام قاعدة بيانات محلية.
 
-The source archive `YouTubeControlCenter-src.zip` has not yet been unpacked into this repository. The full project files still need to be uploaded.
+## البناء
+المشروع مبني باستخدام Android Gradle Plugin وKotlin. افتح المشروع في Android Studio ثم قم بمزامنة Gradle وبناء التطبيق.
+
+## ملاحظة حول الرفع
+هذا المستودع يحتوي حاليًا على ملف README فقط؛ لم يتم رفع ملفات المصدر الكاملة من الأرشيف بعد.
